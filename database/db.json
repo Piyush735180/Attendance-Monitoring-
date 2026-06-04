@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password_hash": "admin123"
+    }
+  ],
+  "students": [
+    {
+      "student_id": "STU001",
+      "name": "Aarav Sharma",
+      "roll_number": "101",
+      "class": "B.Tech CSE",
+      "section": "A",
+      "email": "aarav.sharma@example.com",
+      "contact": "9876543210"
+    },
+    {
+      "student_id": "STU002",
+      "name": "Aditi Patel",
+      "roll_number": "102",
+      "class": "B.Tech CSE",
+      "section": "A",
+      "email": "aditi.patel@example.com",
+      "contact": "9876543211"
+    },
+    {
+      "student_id": "STU003",
+      "name": "Rohan Verma",
+      "roll_number": "201",
+      "class": "B.Tech CSE",
+      "section": "B",
+      "email": "rohan.verma@example.com",
+      "contact": "9876543212"
+    },
+    {
+      "student_id": "STU004",
+      "name": "Ananya Iyer",
+      "roll_number": "202",
+      "class": "B.Tech CSE",
+      "section": "B",
+      "email": "ananya.iyer@example.com",
+      "contact": "9876543213"
+    },
+    {
+      "student_id": "STU005",
+      "name": "Vikram Singh",
+      "roll_number": "401",
+      "class": "BCA",
+      "section": "A",
+      "email": "vikram.singh@example.com",
+      "contact": "9876543214"
+    },
+    {
+      "student_id": "STU006",
+      "name": "Meera Nair",
+      "roll_number": "402",
+      "class": "BCA",
+      "section": "A",
+      "email": "meera.nair@example.com",
+      "contact": "9876543215"
+    },
+    {
+      "student_id": "STU007",
+      "name": "Rahul Gupta",
+      "roll_number": "301",
+      "class": "B.Tech IT",
+      "section": "A",
+      "email": "rahul.gupta@example.com",
+      "contact": "9876543216"
+    },
+    {
+      "student_id": "STU008",
+      "name": "Sneha Reddy",
+      "roll_number": "302",
+      "class": "B.Tech IT",
+      "section": "A",
+      "email": "sneha.reddy@example.com",
+      "contact": "9876543217"
+    },
+    {
+      "student_id": "STU009",
+      "name": "Siddharth Jain",
+      "roll_number": "103",
+      "class": "B.Tech CSE",
+      "section": "A",
+      "email": "siddharth.jain@example.com",
+      "contact": "9876543218"
+    },
+    {
+      "student_id": "STU010",
+      "name": "Tanya Sen",
+      "roll_number": "104",
+      "class": "B.Tech CSE",
+      "section": "A",
+      "email": "tanya.sen@example.com",
+      "contact": "9876543219"
+    },
+    {
+      "student_id": "STU011",
+      "name": "Dev Choudhury",
+      "roll_number": "403",
+      "class": "BCA",
+      "section": "B",
+      "email": "dev.choudhury@example.com",
+      "contact": "9876543220"
+    },
+    {
+      "student_id": "STU012",
+      "name": "Riya Kapoor",
+      "roll_number": "404",
+      "class": "BCA",
+      "section": "B",
+      "email": "riya.kapoor@example.com",
+      "contact": "9876543221"
+    }
+  ],
+  "attendance": [
+    { "attendance_id": "att_001", "student_id": "STU001", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_002", "student_id": "STU002", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_003", "student_id": "STU003", "date": "2026-06-01", "status": "Absent" },
+    { "attendance_id": "att_004", "student_id": "STU004", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_005", "student_id": "STU005", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_006", "student_id": "STU006", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_007", "student_id": "STU007", "date": "2026-06-01", "status": "Absent" },
+    { "attendance_id": "att_008", "student_id": "STU008", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_009", "student_id": "STU009", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_010", "student_id": "STU010", "date": "2026-06-01", "status": "Absent" },
+    { "attendance_id": "att_011", "student_id": "STU011", "date": "2026-06-01", "status": "Present" },
+    { "attendance_id": "att_012", "student_id": "STU012", "date": "2026-06-01", "status": "Present" },
+
+    { "attendance_id": "att_021", "student_id": "STU001", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_022", "student_id": "STU002", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_023", "student_id": "STU003", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_024", "student_id": "STU004", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_025", "student_id": "STU005", "date": "2026-06-02", "status": "Absent" },
+    { "attendance_id": "att_026", "student_id": "STU006", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_027", "student_id": "STU007", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_028", "student_id": "STU008", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_029", "student_id": "STU009", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_030", "student_id": "STU010", "date": "2026-06-02", "status": "Present" },
+    { "attendance_id": "att_031", "student_id": "STU011", "date": "2026-06-02", "status": "Absent" },
+    { "attendance_id": "att_032", "student_id": "STU012", "date": "2026-06-02", "status": "Present" },
+
+    { "attendance_id": "att_041", "student_id": "STU001", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_042", "student_id": "STU002", "date": "2026-06-03", "status": "Absent" },
+    { "attendance_id": "att_043", "student_id": "STU003", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_044", "student_id": "STU004", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_045", "student_id": "STU005", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_046", "student_id": "STU006", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_047", "student_id": "STU007", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_048", "student_id": "STU008", "date": "2026-06-03", "status": "Absent" },
+    { "attendance_id": "att_049", "student_id": "STU009", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_050", "student_id": "STU010", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_051", "student_id": "STU011", "date": "2026-06-03", "status": "Present" },
+    { "attendance_id": "att_052", "student_id": "STU012", "date": "2026-06-03", "status": "Present" },
+
+    { "attendance_id": "att_061", "student_id": "STU001", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_062", "student_id": "STU002", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_063", "student_id": "STU003", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_064", "student_id": "STU004", "date": "2026-06-04", "status": "Absent" },
+    { "attendance_id": "att_065", "student_id": "STU005", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_066", "student_id": "STU006", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_067", "student_id": "STU007", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_068", "student_id": "STU008", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_069", "student_id": "STU009", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_070", "student_id": "STU010", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_071", "student_id": "STU011", "date": "2026-06-04", "status": "Present" },
+    { "attendance_id": "att_072", "student_id": "STU012", "date": "2026-06-04", "status": "Absent" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Monitoring System",
+  "description": "A full-featured responsive college mini-project for student attendance tracking, reporting, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
